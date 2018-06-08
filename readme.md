@@ -9,8 +9,5 @@
 
 create new branch
 
-<<<<<<< HEAD
 masterconflict masterconflict masterconflict
-=======
 conflict conflict conflict
->>>>>>> feature1
